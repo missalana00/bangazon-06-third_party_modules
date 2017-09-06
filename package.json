@@ -1,0 +1,23 @@
+{
+  "name": "bangazon-06-third_party_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flag.js",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missalana00/bangazon-06-third_party_modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missalana00/bangazon-06-third_party_modules/issues"
+  },
+  "homepage": "https://github.com/missalana00/bangazon-06-third_party_modules#readme"
+}
